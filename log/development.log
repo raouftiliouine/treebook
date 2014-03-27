@@ -101,3 +101,987 @@ Processing by StatusesController#index as HTML
   [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
   Rendered statuses/index.html.erb within layouts/application (3.7ms)
 Completed 200 OK in 27ms (Views: 25.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (2.7ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (6.2ms)
+Completed 200 OK in 19ms (Views: 13.0ms | ActiveRecord: 2.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:12:23 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:15:00 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (15.5ms)
+Completed 200 OK in 559ms (Views: 554.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:02 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:02 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:02 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:15:21 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (20.6ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (23.4ms)
+Completed 200 OK in 257ms (Views: 225.1ms | ActiveRecord: 20.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:22 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:23 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:15:23 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:17:17 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 19ms (Views: 16.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:17:18 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:19:18 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (3.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (5.9ms)
+  Rendered layouts/_header.html.erb (8.3ms)
+Completed 200 OK in 138ms (Views: 133.6ms | ActiveRecord: 3.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:19:18 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:19:19 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:20:05 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (22.9ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 140ms (Views: 124.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:05 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:05 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:05 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:05 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:06 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:20:42 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (2.7ms)
+  Rendered layouts/_header.html.erb (1.1ms)
+Completed 200 OK in 18ms (Views: 15.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:42 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:42 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:42 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:42 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:20:43 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:21:18 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.4ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (3.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 230ms (Views: 228.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:21:18 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:21:19 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:22:49 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (10.7ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 350ms (Views: 326.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:22:49 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:22:50 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:25:35 -0400
+Processing by StatusesController#index as HTML
+  Rendered statuses/index.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 52ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:25:36 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:27:27 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 48ms (Views: 31.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:27:28 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:28:04 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (9.4ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 29ms (Views: 27.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:28:04 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:28:04 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:28:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:28:05 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:29:00 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.4ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (16.7ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 139ms (Views: 137.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:29:00 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:00 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:29:00 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:00 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:29:01 -0400
+
+
+Started GET "/statuses/1" for 127.3.144.129 at 2014-03-26 23:29:03 -0400
+Processing by StatusesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[35mStatus Load (0.2ms)[0m  SELECT "statuses".* FROM "statuses" WHERE "statuses"."id" = ? LIMIT 1  [["id", "1"]]
+  Rendered statuses/show.html.erb within layouts/application (1.9ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+Completed 200 OK in 45ms (Views: 42.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/statuses/1" for 127.3.144.129 at 2014-03-26 23:29:05 -0400
+Processing by StatusesController#show as HTML
+  Parameters: {"id"=>"1"}
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses" WHERE "statuses"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  Rendered statuses/show.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 38ms (Views: 31.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:30:34 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.4ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (9.6ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 58ms (Views: 56.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:35 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:36 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:36 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:36 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:36 -0400
+
+
+Started DELETE "/statuses/1" for 127.3.144.129 at 2014-03-26 23:30:40 -0400
+Processing by StatusesController#destroy as HTML
+  Parameters: {"authenticity_token"=>"teOC9gLvGYCFTO3ppct0NwXmVECHxPw6hZr8b6DbDjI=", "id"=>"1"}
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses" WHERE "statuses"."id" = ? LIMIT 1[0m  [["id", "1"]]
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (3.1ms)[0m  [1mDELETE FROM "statuses" WHERE "statuses"."id" = ?[0m  [["id", 1]]
+  [1m[35m (27.2ms)[0m  commit transaction
+Redirected to http://project-livec917993451b5.rhcloud.com/statuses
+Completed 302 Found in 38ms (ActiveRecord: 30.7ms)
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:30:40 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (1.0ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 11.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:30:41 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:32:09 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (0.8ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:09 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:09 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:10 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:32:18 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (2.6ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 20ms (Views: 18.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:32:19 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:38:23 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (5.6ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (8.9ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 170ms (Views: 163.2ms | ActiveRecord: 5.6ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:24 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:25 -0400
+
+
+Started GET "/statuses/new" for 127.3.144.129 at 2014-03-26 23:38:26 -0400
+Processing by StatusesController#new as HTML
+  Rendered statuses/_form.html.erb (38.1ms)
+  Rendered statuses/new.html.erb within layouts/application (52.2ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 81ms (Views: 76.5ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/statuses" for 127.3.144.129 at 2014-03-26 23:38:34 -0400
+Processing by StatusesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"teOC9gLvGYCFTO3ppct0NwXmVECHxPw6hZr8b6DbDjI=", "status"=>{"name"=>"Raouf", "content"=>"I'm on Treebook!"}, "commit"=>"Create Status"}
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35mSQL (122.8ms)[0m  INSERT INTO "statuses" ("content", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)  [["content", "I'm on Treebook!"], ["created_at", Thu, 27 Mar 2014 03:38:34 UTC +00:00], ["name", "Raouf"], ["updated_at", Thu, 27 Mar 2014 03:38:34 UTC +00:00]]
+  [1m[36m (851.4ms)[0m  [1mcommit transaction[0m
+Redirected to http://project-livec917993451b5.rhcloud.com/statuses/2
+Completed 302 Found in 1134ms (ActiveRecord: 974.3ms)
+
+
+Started GET "/statuses/2" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+Processing by StatusesController#show as HTML
+  Parameters: {"id"=>"2"}
+  [1m[35mStatus Load (0.2ms)[0m  SELECT "statuses".* FROM "statuses" WHERE "statuses"."id" = ? LIMIT 1  [["id", "2"]]
+  Rendered statuses/show.html.erb within layouts/application (0.6ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 142ms (Views: 139.3ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:36 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:37 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:37 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:37 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:38:38 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (71.9ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 85ms (Views: 83.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/statuses/new" for 127.3.144.129 at 2014-03-26 23:38:41 -0400
+Processing by StatusesController#new as HTML
+  Rendered statuses/_form.html.erb (3.5ms)
+  Rendered statuses/new.html.erb within layouts/application (6.4ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 23ms (Views: 21.9ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/statuses" for 127.3.144.129 at 2014-03-26 23:38:58 -0400
+Processing by StatusesController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"teOC9gLvGYCFTO3ppct0NwXmVECHxPw6hZr8b6DbDjI=", "status"=>{"name"=>"Mom", "content"=>"Hey Raouf,\r\nWhat are you doing on here?!?!"}, "commit"=>"Create Status"}
+  [1m[35m (0.1ms)[0m  begin transaction
+  [1m[36mSQL (9.5ms)[0m  [1mINSERT INTO "statuses" ("content", "created_at", "name", "updated_at") VALUES (?, ?, ?, ?)[0m  [["content", "Hey Raouf,\r\nWhat are you doing on here?!?!"], ["created_at", Thu, 27 Mar 2014 03:38:58 UTC +00:00], ["name", "Mom"], ["updated_at", Thu, 27 Mar 2014 03:38:58 UTC +00:00]]
+  [1m[35m (62.6ms)[0m  commit transaction
+Redirected to http://project-livec917993451b5.rhcloud.com/statuses/3
+Completed 302 Found in 79ms (ActiveRecord: 72.3ms)
+
+
+Started GET "/statuses/3" for 127.3.144.129 at 2014-03-26 23:38:58 -0400
+Processing by StatusesController#show as HTML
+  Parameters: {"id"=>"3"}
+  [1m[36mStatus Load (0.2ms)[0m  [1mSELECT "statuses".* FROM "statuses" WHERE "statuses"."id" = ? LIMIT 1[0m  [["id", "3"]]
+  Rendered statuses/show.html.erb within layouts/application (0.7ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 15ms (Views: 11.7ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:58 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:38:59 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:39:01 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (12.8ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 44ms (Views: 41.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:48:34 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.4ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (46.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 181ms (Views: 117.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:48:35 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:49:03 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.3ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (3.1ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 369ms (Views: 366.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:04 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:49:39 -0400
+Processing by StatusesController#index as HTML
+  [1m[36mStatus Load (0.3ms)[0m  [1mSELECT "statuses".* FROM "statuses"[0m
+  Rendered statuses/index.html.erb within layouts/application (13.8ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 747ms (Views: 693.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:49:40 -0400
+
+
+Started GET "/statuses" for 127.3.144.129 at 2014-03-26 23:50:14 -0400
+Processing by StatusesController#index as HTML
+  [1m[35mStatus Load (0.4ms)[0m  SELECT "statuses".* FROM "statuses"
+  Rendered statuses/index.html.erb within layouts/application (309.7ms)
+  Rendered layouts/_header.html.erb (0.1ms)
+Completed 200 OK in 1796ms (Views: 1761.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.3.144.129 at 2014-03-26 23:50:17 -0400
+
+
+Started GET "/assets/jquery.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:17 -0400
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/bootstrap.min.css?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/statuses.css?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/turbolinks.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/bootstrap.min.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:18 -0400
+
+
+Started GET "/assets/statuses.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:19 -0400
+
+
+Started GET "/assets/application.js?body=1" for 127.3.144.129 at 2014-03-26 23:50:19 -0400
